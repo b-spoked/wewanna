@@ -1,0 +1,2016 @@
+##toliets nsn
+INSERT INTO `notes` (`name`, `description`,`address`,`latitude`,`longitude`,`tags`) VALUES
+('Bus stop on Main road stoke near 427 pl','Located outside 2 tuckett pl. Not a real bus box, just dotted Yellow lines and words','','173.25388167578382','-41.30387252330484','Bus Stop'),
+('Bus stop on Waimea Rd outside 471','South of Waimea Rd Roundabout I outside 471','','173.25051091795126','-41.301958566216356',''),
+('Bus stop on Main Road stoke outside 397','outside 397','','173.2404227923619','-41.306291909284674','Bus Stop'),
+('Bus stop on Main Road stoke Outside 419','outside 419','','173.23908927490052','-41.307734368845608,'Bus Stop'),
+('Bus stop outside 451 Main Road Stoke','','','173.23716001874701','-41.309803090680298',''),
+('Bus stop on Main Road Stoke Southbound near 523','Opposite Stoke Shops','','173.23424342357265','-41.312954515360133',''),
+('Bus stop outside 603 Main Road stoke','outside stoke school','','173.23004318078094','-41.316314381834786','',
+('Bus stop outside 643 Main Road Stoke','Opposite Byron PI, outside 643 main Road stoke','',173.22743405984963','-41.31796694393833',''),
+('Bus stop outside 18 McMahon Street','Outside Kensington Court Life care Rest Home','','173.22476404504528','-41.319662168377846',''),
+('Bus stop on Main Road Stoke outside Earnest Rutherford','outside Earnest Rutherford, near 725 Main Road stoke','','173.22093779998943','-41.322081476162822',''),
+('Bus stop at Orphanage Creek','Orphanage Creek. south of roundabout, by underpass','','173.21527351221351','-41.325666387026352',''),
+('Bus stop outside 291 Main Road Stoke','opposite vtnz and Heslops','','173.20753726816108','-41.330432931263012',''),
+('Bus stop on Waimea Road Southbound, south of Beatson Rd','Waimea Road opposite Beatson Road south of intersection','','173.26060851688104','-41.300648663518814',''),
+('Bus stop on Waimea Road outside 203 (caltex)','outside Caltex','','173.26652884637954','-41.295251220309069',''),
+('Bus stop on Waimea Road Outside 143','Waimea Road outside 143','','173.26977776784329','-41.291672510135975',''),
+('Bus stop on Waimea Road opposite Hospital','Waimea Road opposite Hospital','','173.27405037392197','-41.287054806074266',''),
+('Bus stop on Waimea Road outside Hampden street school','outside 39?','','173.27715938937442','-41.283709528334533',''),
+('Bus stop on Rutherford street at Girls College','Rutherford street at Girls College','','173.2806921836185','-41.279191684310248',''),
+('Bus stop on Salisbury Rd near Machwood Grove','Salisbury Road near Machwood Grove','','173.20130284103476','-41.334361547921681',''),
+('Bus stop on Salisbury Road outside Waimea College','','','173.19633069188185','-41.337496112987331',''),
+('Bus stop on Salisbury Road opp Florence street','','173.19088340671823,-41.340890581495501','Bus Stop'),
+('Bus stop at Salisbury Road outside Dental Care Richmond','','Salisbury Road outside Dental Care Richmond/ opp Florence Medical Centre','173.18934480562598,-41.341826402350421','Bus Stop'),
+('Bus stop at Queen street outside G J Gardner Homes','Queen street outside G J Gardner Homes opposite first National','','173.18652089350329,-41.340930055404208','Bus Stop'),
+('Bus stop at 5BL Depot','','','173.1837858133236,-41.336265978760167','Bus Stop'),
+('Bus stop at Queen street outside Fuji Film','Queen street outside Fuji Film and NZ CU -opposites $2 shop','','173.18638972475401,-41.34063258869444','Bus Stop'),
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Salisbury Road outside The Car Company</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>I pole</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>Glass + metal</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments>Needs replacing</TopoftheSouthMaps:PassengerInformationComments>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus box with words -12 metres</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.5 metres</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.18902388659174,-41.341857067805165','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__27">
+<TopoftheSouthMaps:OBJECTID>27</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>29</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'
+Salisbury Road The Centre just north of intersection
+</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 on a church sign. No regulatory pole</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>Big wooden roof + glass</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments>Need one</TopoftheSouthMaps:PassengerInformationComments>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box -no words -12.6 metres</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.5 metres</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.19065309808363,-41.340790649001534','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__28">
+<TopoftheSouthMaps:OBJECTID>28</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>30</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Salisbury Road Opposite Waimea College</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 on streetlight</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>shelter is 10-15 metres north of Bus Box</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+Box 13.5 metres long-no painting either side of stop- But with words
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.0 metres</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments>Rubbish bin</TopoftheSouthMaps:BusStopSeatComments>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.19568248718497,-41.337620598068007','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__29">
+<TopoftheSouthMaps:OBJECTID>29</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>32</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Salisbury Road opposite 126 Temple more</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 attached to shelter</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 18.6 metes long with wands</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.0- shelter behind this</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>Needs timetable</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.20044692141909,-41.334684709634665','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__30">
+<TopoftheSouthMaps:OBJECTID>30</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>33</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'
+Main road Stoke outside 792 and a little to the north
+</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1 pole</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words faded 16.2 metres</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:FootpathWidth>footpath behind shelter 1.8m b</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>Box need repainting</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.21665812897902,-41.324533797551297','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__31">
+<TopoftheSouthMaps:OBJECTID>31</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>34</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road Stoke opposite Earnest Rutherford</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Bux with words 15m long</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.5 metres</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.21481049361464,-41.325417486905408','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__32">
+<TopoftheSouthMaps:OBJECTID>32</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>35</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road Stoke just south of Brewery outside 670</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 on streetlight</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+No Road Making Room for shelter t footpath in Road Reserve. Might require pedrefuge
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:FootpathWidth>No footpath:</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+Good candidate for improvement, Could fit footpath-+ shelter-would Cato for vehement home + shops
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>COURTESY</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.22486814231382,-41.319383782077914','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__33">
+<TopoftheSouthMaps:OBJECTID>33</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>36</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road Stoke outside 620</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>Rubbish bin</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+Bus Box fifteen metres - plus tapers either end. Driveway in middle.
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:FootpathWidth>1-8 metres-shelter behind this</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.22768383667213,-41.317619699331381','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__34">
+<TopoftheSouthMaps:OBJECTID>34</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>37</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road Stohe opposite Stoke School-outside 580</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with Words 14 metres</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8 metres</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.23054199280139,-41.315814920209782','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__35">
+<TopoftheSouthMaps:OBJECTID>35</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>38</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'
+Main Road stoke outside Marsden Recreation ground, Stoke seniors Club
+</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1pole + second RP5 also on light pole</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+No bus Box but no parking marking length of lay by -15 metres plus tapers
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>OTHER</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8 metres</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.23278545665568,-41.31428415422436','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__36">
+<TopoftheSouthMaps:OBJECTID>36</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>39</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road Stake outside shops- opposite Isel Park</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>2 poles</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>Shelter provided by eaves</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 23 metres</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>3.0 metres includes where seat</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments>2 seats</TopoftheSouthMaps:BusStopSeatComments>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.23490505676776,-41.31189418392232','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__37">
+<TopoftheSouthMaps:OBJECTID>37</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>40</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'main Road stoke opposite Marsden Road-outside 440</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+No Bus Boxjust layby with no parking making 9m box area plus tapers to 23m. Driveway in middle. Words on road.
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>OTHER</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.4m including seat area.</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.23730063086373,-41.309421775155847','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__38">
+<TopoftheSouthMaps:OBJECTID>38</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>41</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road stoke onside 426</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+No box, just no stopping marking. 18m plus lm tapers at each end.
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>OTHER</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.5m footpath includes seat</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.23854405033461,-41.30808429072561','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__39">
+<TopoftheSouthMaps:OBJECTID>39</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>42</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road stoke outside 392</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+Bus Box 16. 6 metres, with words. Goes over a driveway.
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.5 wide leaves 1. 3 m in fron</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24029476056765,-41.30620476723233','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__40">
+<TopoftheSouthMaps:OBJECTID>40</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>43</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Main Road Stoke outside 518</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+Bus box within large layby-space for parking also. 15.4m. over a driveway.
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>22 m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24702095423163,-41.301742538375308','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__41">
+<TopoftheSouthMaps:OBJECTID>41</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>44</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Waimea Road North of roundabout opp 44 a Mr Music</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 27m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.5 in with seat behind thus</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.25173370518246,-41.302315295464808','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__42">
+<TopoftheSouthMaps:OBJECTID>42</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>45</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Waimea Road at base of hill opposite 411</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>2 poles</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 34 m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>25m in front of shelter-narrow</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.25516232594927,-41.304061298280914','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__43">
+<TopoftheSouthMaps:OBJECTID>43</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>46</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Waimea Road outside 178</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments>Need to add a new stop here</TopoftheSouthMaps:LocationComments>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>stat of a recessed parking Bay</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:FootpathWidth>Footpath is 1.5 m, but the is</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+15m between paling bort the first driveway-plenty of room in front of 180
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.26795240247137,-41.293411794506','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__44">
+<TopoftheSouthMaps:OBJECTID>44</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>47</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Waimea Road. opposite 135</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>2</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 15.6m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2 m, narrows after seat</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>old The Bus for needs removing</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments>Rubbish bin</TopoftheSouthMaps:BusStopSeatComments>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.2703483757758,-41.290835564032292','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__45">
+<TopoftheSouthMaps:OBJECTID>45</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>48</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Waimea Road Outside hospital</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>2</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus box 13m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:FootpathWidth>1.4. shelter behind</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27393899158034,-41.286976626056905','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__46">
+<TopoftheSouthMaps:OBJECTID>46</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>49</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Waimea Road opposite Hampden Street School</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>2</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>shallow layby. Bus Box 13 m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>3m including seat</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27694514554943,-41.283728796323039','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__47">
+<TopoftheSouthMaps:OBJECTID>47</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>50</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rutherford structuralised Chelsea Park Motor lodge</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>I</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 13m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.7m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.28056356828628,-41.278768999338432','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__48">
+<TopoftheSouthMaps:OBJECTID>48</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>51</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'
+Rutherford street Near Theatre Royal. Opposite Guthrie Bowron
+</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 14m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.6 m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.28078378530398,-41.273933036842067','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__49">
+<TopoftheSouthMaps:OBJECTID>49</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>52</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Haven Road by Maori Road + Auckland Point school</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Box 11m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8 m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments>Possibly room for a seat beside streetlight</TopoftheSouthMaps:BusStopSeatComments>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27803894304847,-41.268926807693283','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__50">
+<TopoftheSouthMaps:OBJECTID>50</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>53</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Haven Road outside BP</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box no words 18m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2m in front of seat</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27600892015087,-41.266631108711984','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__51">
+<TopoftheSouthMaps:OBJECTID>51</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>54</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Haven Road outside 211</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>sign on street light</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments>Attached to streetlight</TopoftheSouthMaps:PassengerInformationComments>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 16m no words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8m including seat area</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>Needs Bus Stop Painted in Box</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27242220522973,-41.265298888608278','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__52">
+<TopoftheSouthMaps:OBJECTID>52</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>55</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'
+Wake field Quayopposite 5 points restaurant/ City tins
+</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>16m Bus Box with words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.2 m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+Were planning to put a seat in but body corporate objected.
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.26943800540377,-41.263701216316896','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__53">
+<TopoftheSouthMaps:OBJECTID>53</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>56</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Wakefield Quay opposite The Boathouse</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Box 16m with words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8 minimum-up to 2m. seat wit</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.26705586305962,-41.265923455309114','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__54">
+<TopoftheSouthMaps:OBJECTID>54</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>57</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Wakefield Quay outside 409</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words 14m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2m seat within this</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.26278427906993,-41.269665714767761','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__55">
+<TopoftheSouthMaps:OBJECTID>55</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>58</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rocks Road outside 543</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>I</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box no words. 11.8m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.6m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.25555906997599,-41.276732541146075','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__56">
+<TopoftheSouthMaps:OBJECTID>56</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>59</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rocks Road outside Gelato place</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>Rubbish bin also</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>32m long Bus box</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:FootpathWidth>3m wide shelter within</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.2503701150365,-41.28018785620668','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__57">
+<TopoftheSouthMaps:OBJECTID>57</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>60</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Muritai street opposite smugglers</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 16m Words in Box</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24860380661514,-41.282504474586396','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__58">
+<TopoftheSouthMaps:OBJECTID>58</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>61</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Mur it ai Street outside Beach Hostel opposite 26</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 16m, with words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24687416707945,-41.283653596730318','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__59">
+<TopoftheSouthMaps:OBJECTID>59</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>62</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Muritai street outside reserve</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>16m Bus But words lines very faded.</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.2 -kerb to back of footpath</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+old parking markings need to be removed because you can see them through the yellow bus Markings
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24468825317558,-41.286294340236878','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__60">
+<TopoftheSouthMaps:OBJECTID>60</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>63</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Muritai street outside 113</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 on streetlight</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Box 16m with words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.5m plus berm, --2.5</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24404564271063,-41.289039552449132','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__61">
+<TopoftheSouthMaps:OBJECTID>61</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>64</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'
+Muritai street opposite Hanhooh on intersection with Parkers Drive
+</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>I</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Box 17m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:FootpathWidth>2.5 plus berm seat behind</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24367386073806,-41.29055687076545','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__62">
+<TopoftheSouthMaps:OBJECTID>62</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>66</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Annesbrook Drive outside 225</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>Rubbish bin-red plastic</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 20m plus tapers with words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2m -seat behind this</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24544959830286,-41.295504819177879','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__63">
+<TopoftheSouthMaps:OBJECTID>63</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>67</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Annesbrook Drive outside 295</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments>
+Consider relocating further north Where the is room for a shelter
+</TopoftheSouthMaps:LocationComments>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments>Rubbish bin red plastic</TopoftheSouthMaps:BusStopShelterComments>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words 15 m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>-1.5 seat behind this</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24270001420672,-41.301378561575213','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__64">
+<TopoftheSouthMaps:OBJECTID>64</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>68</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Annesbrook Drive outside Black Cat shops</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 9.8m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.5m including seat area</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24312622341466,-41.300717035159565','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__65">
+<TopoftheSouthMaps:OBJECTID>65</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>69</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Annesbrook Drive outside-to 250</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>15.2m box with words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1. 5 unseat t shelter behind</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments>2</TopoftheSouthMaps:BusStopSeatComments>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24502034957706,-41.296541158048178','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__66">
+<TopoftheSouthMaps:OBJECTID>66</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>70</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Annesbrook Drive outside 220</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>I</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Box 12.2</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>15msheltr behind</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+needs timetable some patching to do btw shelter and footpath
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments>2 rubbish bin</TopoftheSouthMaps:BusStopSeatComments>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24543682803503,-41.294884151935776','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__67">
+<TopoftheSouthMaps:OBJECTID>67</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>71</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Parkers Road outside5</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RPs attached to power pole + hidden behind bushes</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Box with words 13. 2m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8m with seat behind</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24537872974656,-41.292071054410577','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__68">
+<TopoftheSouthMaps:OBJECTID>68</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>72</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Muritai street outside 140</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>No R P5</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words 16m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>3.2including shelter</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>Needs RP5 and timetable Bus Box very faded</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24361537117966,-41.290252189538478','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__69">
+<TopoftheSouthMaps:OBJECTID>69</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>73</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Muritai street on corner of Green st</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words 17.2m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.5 shelter included</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>Bus shelter glass smashed needs timetable</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24396037630299,-41.28878266658554','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__70">
+<TopoftheSouthMaps:OBJECTID>70</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>74</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Muritai street outside 68</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>
+1 second pole nearby with street name on it could be used?
+</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words 16m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.2 in front of shelter</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24462788812332,-41.285926412457826','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__71">
+<TopoftheSouthMaps:OBJECTID>71</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>75</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Muritai street outside 38 -dairy garages</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words 16 m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.1m including seat area</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>Bus Box painted over white lines difficult to see</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24609005358354,-41.284013733046137','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__72">
+<TopoftheSouthMaps:OBJECTID>72</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>76</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Morita; Street outside smugglers</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 22m with words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>28m includes seat area</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.24841865779143,-41.28246182785292','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__73">
+<TopoftheSouthMaps:OBJECTID>73</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>77</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rocks Road at Tahunanui beach</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>1</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box with words 28m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>4 plus metres</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.25004638688932,-41.280157367612816','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__74">
+<TopoftheSouthMaps:OBJECTID>74</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>78</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rocks Road opposite 567</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments>Location may change depending on ped refuge</TopoftheSouthMaps:LocationComments>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus box 16.5m Box not complete. No words.</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>OTHER</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.5m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.25461512631662,-41.277194834472667','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__75">
+<TopoftheSouthMaps:OBJECTID>75</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>79</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Wakefield Quay at Richardson street</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 on streetlight</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>Y</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>
+Bus Bon 12m. including the taper in Layby on the footpath sort of
+</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>not really any footpath</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+Layby on footpath, + very short box difficult to get in and out
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.26222891639912,-41.269935652283031','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__76">
+<TopoftheSouthMaps:OBJECTID>76</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>80</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rocks Road opposite 309</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 on streetlight</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 15.2m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.4m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>used to have supplementary time limit sign-missing</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.26745323640637,-41.265100356784252','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__77">
+<TopoftheSouthMaps:OBJECTID>77</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>81</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rocks Road outside the customhouse no. 258</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>N</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments>RP5 on streetlight</TopoftheSouthMaps:BusStopPoleComments>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus box without words 16.8m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>1.8m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+old timetable for the doubledecher needs to be taken down
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27057481568681,-41.262989918308314','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__78">
+<TopoftheSouthMaps:OBJECTID>78</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>82</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Haven Road opposite Russell st</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 14.m no words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.2 m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>stop in cycle lane</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27227918323308,-41.264608771087481','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__79">
+<TopoftheSouthMaps:OBJECTID>79</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>83</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Haven Road by bridge across saltwater creek</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments>stop in cycle lane</TopoftheSouthMaps:LocationComments>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus box with words 14.5m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.7</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>TAHUNANUI</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.27836677206275,-41.267979801572757','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__80">
+<TopoftheSouthMaps:OBJECTID>80</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>119</TopoftheSouthMaps:GISID>
+('Depot</TopoftheSouthMaps:BusStopName>
+<TopoftheSouthMaps:RoadDirection>INBOUND</TopoftheSouthMaps:RoadDirection>
+,'Wakatu Square Stop</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>Y</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>Y</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 6m with Words</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>plenty of paved area</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>Y</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.28268393836524,-41.27192912541696','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__81">
+<TopoftheSouthMaps:OBJECTID>81</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>147</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rutherford Street outside 59 (by Briscoes)</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 14.6</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.8m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies/>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.2809597762662,-41.273334283584845','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__82">
+<TopoftheSouthMaps:OBJECTID>82</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>148</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Rutherford Street Outside Girls college</TopoftheSouthMaps:Location>
+<TopoftheSouthMaps:LocationComments/>
+<TopoftheSouthMaps:BusStopPole>Y</TopoftheSouthMaps:BusStopPole>
+<TopoftheSouthMaps:BusStopPoleComments/>
+<TopoftheSouthMaps:BusStopShelter>N</TopoftheSouthMaps:BusStopShelter>
+<TopoftheSouthMaps:BusStopShelterComments/>
+<TopoftheSouthMaps:PassengerInformation>N</TopoftheSouthMaps:PassengerInformation>
+<TopoftheSouthMaps:PassengerInformationComments/>
+<TopoftheSouthMaps:BusLayBy>N</TopoftheSouthMaps:BusLayBy>
+<TopoftheSouthMaps:BusLayByComments>Bus Box 13.2m</TopoftheSouthMaps:BusLayByComments>
+<TopoftheSouthMaps:RoadMarkings>BUSBOX</TopoftheSouthMaps:RoadMarkings>
+<TopoftheSouthMaps:FootpathWidth>2.5m</TopoftheSouthMaps:FootpathWidth>
+<TopoftheSouthMaps:Deficiencies>
+Make this formal stop for Bust leave the other ones in front for school buses.
+</TopoftheSouthMaps:Deficiencies>
+<TopoftheSouthMaps:BusStopType>BUS STOP</TopoftheSouthMaps:BusStopType>
+<TopoftheSouthMaps:BusRoute>BISHOPDALE</TopoftheSouthMaps:BusRoute>
+<TopoftheSouthMaps:BusStopSeat>N</TopoftheSouthMaps:BusStopSeat>
+<TopoftheSouthMaps:BusStopSeatComments/>
+<TopoftheSouthMaps:Shape>
+<gml:Point>
+<gml:coordinates>173.28071874075818,-41.2787587539461','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+<gml:featureMember>
+<TopoftheSouthMaps:Services_-_Bus_Stops fid="F7674__83">
+<TopoftheSouthMaps:OBJECTID>83</TopoftheSouthMaps:OBJECTID>
+<TopoftheSouthMaps:InputBy>susans</TopoftheSouthMaps:InputBy>
+<TopoftheSouthMaps:InputDate>2011-11-11T00:00:00</TopoftheSouthMaps:InputDate>
+<TopoftheSouthMaps:ModBy>susans</TopoftheSouthMaps:ModBy>
+<TopoftheSouthMaps:ModDate>2011-11-11T00:00:00</TopoftheSouthMaps:ModDate>
+<TopoftheSouthMaps:GISID>65</TopoftheSouthMaps:GISID>
+('Bus stop at
+<TopoftheSouthMaps:RoadDirection>OUTBOUND</TopoftheSouthMaps:RoadDirection>
+,'Parkers Road outside4 B,'','173.245500041556,-41.292016103291239','Bus Stop'),
+</gml:Point>
+</TopoftheSouthMaps:Shape>
+</TopoftheSouthMaps:Services_-_Bus_Stops>
+</gml:featureMember>
+</wfs:FeatureCollection>

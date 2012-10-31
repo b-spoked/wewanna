@@ -1,0 +1,4 @@
+BUSES
+http://www.topofthesouthmaps.co.nz/ArcGIS/services/TopoftheSouthMaps/MapServer/WFSServer?SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=TopoftheSouthMaps:Services_-_Bus_Stops&srsName=EPSG:6.9:4326
+PARKS/TOILETS ETC
+http://www.topofthesouthmaps.co.nz/ArcGIS/services/TopoftheSouthMaps/MapServer/WFSServer?SERVICE=WFS&VERSION=1.0.0&REQUEST=GetFeature&TYPENAME=TopoftheSouthMaps:Recreation_-_Places_Of_Interest&srsName=EPSG:6.9:4326

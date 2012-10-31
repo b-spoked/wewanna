@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="loadxmldoc.js"></script>
+</head>
+<body>
+
+<script type="text/javascript">
+
+xmlDoc=loadXMLDoc("books.xml");
+
+x=xmlDoc.getElementsByTagName("title")[1]
+y=x.childNodes[0];
+document.write(y.nodeValue);
+
+</script>
+</body>
+</html>

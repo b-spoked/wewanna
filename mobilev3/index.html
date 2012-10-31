@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+	<head>
+	<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>What We Wanna: Families</title>
+		<link rel="stylesheet" href="stylesheets/base.css">
+		<link rel="stylesheet" href="stylesheets/skeleton.css">
+		<link rel="stylesheet" href="stylesheets/layout.css">
+		<link rel="stylesheet" href="stylesheets/font-awesome.css" />
+		<link rel="stylesheet" href="stylesheets/bootstrap.min.css" />
+	</head>
+	<body>
+		<div class="band navigation">
+			<nav class="container primary">
+				<div class="sixteen columns">
+					<header><i class="icon-pushpin"></i> What We Wanna</header>
+					<ul id="filters">
+						<li><a class="selected" href="#/">Search</a></li>
+						<li><a href="#/places">Places</a></li>
+						<li><a href="#/user">User</a></li>
+						<!--<li><a href="#/todos">To-Do List</a></li>
+						<li><a href="#/settings">Settings</a></li>-->
+					</ul>
+				</div>
+			</nav><!--end container-->
+		</div><!--end band-->
+		<div class="container">
+			
+			<div class="sixteen columns">
+					<section id="main">			  
+					</section>
+			</div>
+		</div>
+		<!-- Templates -->	
+		<script type="text/template" id="place-template">
+			<div class="view">
+				<div id="place_<%= id %>" class="note">
+					<div class="six columns alpha">
+						<h5><%= name %></h5>
+						<blockquote>
+							<p><%= description %></p>
+						</blockquote>
+					</div>
+					<div class="six columns omega">
+							<p><%= address %></p>
+							<p><em><%= rating %><i class="icon-star"></i></em></p>
+							<p><em><strong><%= distance %>km</strong> away</em></p>
+					</div>
+					<div class="two columns">
+						<div class="btn-group">
+							<button class="map full-width"><i class="icon-map-marker"></i> Show Map</button>
+							<button class="comments full-width"><i class="icon-comments"></i> Comments</button>
+							<button class="bookmark full-width"><i class="icon-star"></i> To-Do</button>
+							<button class="recommend full-width"><i class="icon-thumbs-up"></i> Recommend</button>
+						</div>
+					</div>
+				</div>
+				<div id="map_<%= id %>_canvas" class="sixteen columns alpha" style="height:320px; display:none;">
+				</div>
+				<div id="comments_<%= id %>" class="sixteen columns alpha" style="display:none;">
+				</div>
+				<div id="edit_<%= id %>" class="sixteen columns alpha" style="display:none;">
+					<form id="edit-form" method="POST">
+						<div class="six columns alpha">
+							<label for="edit-name">Give it a title</label>
+							<input type="text" name="edit-name" id="edit-name" value="<%= name %>"/>	
+							<label for="edit-description">Tell us about it</label>
+							<textarea name="edit-description" id="edit-description"><%= description %></textarea>
+						</div>
+						<div class="six columns omega">
+							<label for="edit-address">Tell people the address</label>
+							<input type="text" id="edit-address" name="edit-address" value="<%= address %>"/>
+							<input type="hidden" name="edit-latitude" id="edit-latitude" value="<%= latitude %>"/>
+							<input type="hidden" name="edit-longitude" id="edit-longitude" value="<%= longitude %>"/>
+							<label for="edit-tags">Tags to help classify</label>
+							<input type="text" name="tags" id="edit-tags" />
+							<label for="edit-rating">Rate it</label>
+							<select name="edit-rating" id="edit-rating">
+								<option <% if (rating==5) { %> selected="selected"<% } %> value="5">5. O-for-Awesome</option>
+								<option <% if (rating==4) { %> selected="selected"<% } %> value="4">4. Well worth it</option>
+								<option <% if (rating==3) { %> selected="selected"<% } %> value="3">3. Good enough</option>
+								<option <% if (rating==2) { %> selected="selected"<% } %> value="2">2. Ho hum</option>
+								<option <% if (rating==1) { %> selected="selected"<% } %> value="1">1. Stink</option>
+							</select>
+						</div>
+						<div class="two columns">
+							<button id="submit" type="submit">Save Update</button>
+						</div>
+					</form>
+				</div>
+			</div>
+			<hr />
+		</script>
+		<script type="text/template" id="search-template">
+		<div class="view">
+			<p><i class="icon-search"></i> Search for place's that you and your kids can enjoy.</p>
+			<div class="section">
+				<div class="one-third column alpha">
+					<h4>Your Location</h4>
+				</div>
+				<div class="one-third column omega">
+					<input type="text" name="yourlocation" id="yourlocation" value="<%= address %>" readonly="readonly" placeholder="We don't know your location"  />
+				</div>
+				<div class="one-third column">	
+					<a class="button" href="#/settings"><i class="icon-map-marker"></i> Update Your Location</a>
+				</div>
+				<hr />
+				<div class="clear"/>
+				<div class="one-third column alpha">
+					<h4>Last Searched</h4>
+				</div>
+				<div class="one-third column omega">
+					<form id="previous-search" method="post">
+						<label for="previouslocationfilter">Last searched location</label>
+						<input type="text" name="previouslocationfilter" id="previouslocationfilter" value="<%= previousLocationFilter %>" readonly="readonly" placeholder="No Area"  />
+				</div>
+				<div class="one-third column">
+						<label for="previoustypefilter">Last searched keywords</label>
+						<input type="text" name="previoustypefilter" id="previoustypefilter" value="<%= previousTypeFilter %>" readonly="readonly" placeholder="No Keyword(s)"  />
+						<input type="submit" value="Search Again">
+					</form>
+				</div>
+				<hr />
+				<div class="clear" />
+				<div class="one-third column alpha">
+					<h4>Search For Places</h4>
+				</div>
+				<div class="one-third column omega">
+					<form id="find-places" method="post">
+						<label for="locationfilter">Where shall we search?</label>
+						<input type="text" name="locationfilter" id="locationfilter" value="" placeholder="Area to search"  />
+				</div>
+				<div class="one-third column">
+						<label for="typefilter">Any specific type?</label>
+						<input type="text" name="typefilter" id="typefilter" value="" placeholder="Keyword(s) - comma seperated"  />
+						<input type="submit" value="Find Places">
+					</form>	
+				</div>
+				
+			</div>
+		</div>
+		</script>
+		<script type="text/template" id="user-template">
+		<div class="view">
+			<div class="sixteen columns">
+				<ul class="nav nav-tabs">
+					<li class="active"><a data-toggle="tab" href="#user-details">Details</a></li>
+					<li><a data-toggle="tab" href="#user-todos">To Do List</a></li>
+					<li><a data-toggle="tab" href="#user-recommended">Recommended</a></li>
+					<li><a data-toggle="tab" href="#user-owned">Added</a></li>
+				</ul>	
+				<div class="tab-content">
+					<div class="tab-pane active" id="user-details">
+						<blockquote><i class="icon-cogs"></i> User Details</blockquote>
+						<div class="one-third column alpha">
+							<h4>Account Settings</h4>
+						</div>
+						<div class="two-third column omega">
+							<h4>Location Settings</h4>
+						</div>
+					</div>
+					<div class="tab-pane" id="user-todos">
+						<blockquote><i class="icon-star"></i> Places To Do</blockquote>
+						<input type="text" id="filter-todos" placeholder="filter to do's...">
+						<ul id="todos-list"></ul>
+					</div>
+					<div class="tab-pane" id="user-recommended">
+						<blockquote><i class="icon-thumbs-up"></i> Places Recommended</blockquote>
+						<ul id="recommended-list"></ul>
+					</div>
+					<div class="tab-pane" id="user-owned">
+						<blockquote><i class="icon-plus"></i> Places Added</blockquote>
+						<ul id="owned-list"></ul>
+					</div>
+				</div>
+			</div>
+		</div>	
+		</script>
+		<script type="text/template" id="add-template">
+		<div class="view">
+		<div class="section">
+			<p><i class="icon-check"></i> Add a new place so that others can enjoy it.</p>
+			<form id="addNoteForm" method="POST">
+				<div class="five columns">
+					<label for="name">Give it a title</label>
+					<input type="text" name="name" id="name" value=""  placeholder="Title"/>	
+					<label for="description">Tell us about it</label>
+					<textarea name="description" id="description" placeholder="Description"></textarea>
+				</div>
+				<div class="five columns">
+					<label for="tags">Tags to help classify</label>
+					<input type="text" name="tags" id="tags" value=""  placeholder="Tags (seperate with a comma)" />
+					<label for="rating">Rate it</label>
+					<select name="rating" id="rating">
+						<option value="5">5. O-for-Awesome</option>
+						<option value="4">4. Well worth it</option>
+						<option value="3">3. Good enough</option>
+						<option value="2">2. Ho hum</option>
+						<option value="1">1. Stink</option>
+					</select>
+				</div>
+				<div class="three columns">
+					<label for="address">Tell people the address</label>
+					<input type="text" id="address" name="address"/>
+					<input type="hidden" name="latitude" id="latitude" />
+					<input type="hidden" name="longitude" id="longitude" />
+					<button id="submit" type="submit">Add Place</button>
+				</div>
+			</form>
+		</div>
+		</div>
+		</script>
+		<script type="text/template" id="found-template">
+		<div class="view">
+			<div class="six columns alpha">
+				<input type="text" id="filter-by" placeholder="filter places...">
+			</div>
+			<div class="ten columns omega">
+				<a class="button" href="#/addplace"><i class="icon-plus"></i> Add New Place</a>
+				<a class="button" href="#/user"><i class="icon-user"></i> Account</a>
+			</div>
+			<div class="clear" />
+			<ul id="places-list"></ul>
+		</div>
+		</script>
+		<!-- App Source -->	
+		<script src="js/jquery-1.8.2.min.js"></script>
+		<!--<script src="js/jquery-ui-1.8.7.min.js"></script>-->
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/underscore-min.js"></script>
+		<script src="js/backbone-min.js"></script>
+		<script src="js/backbone_offline.js"></script>
+		<script src="js/places.js"></script>
+		<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	</body>
+</html>

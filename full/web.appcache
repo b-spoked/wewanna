@@ -1,0 +1,14 @@
+CACHE MANIFEST
+#version 1.0.1
+
+CACHE:
+
+index.html
+css/base.css
+css/font-awesome.css
+css/layout.css
+css/skeleton.css
+font/fontawesome-webfont.eot
+font/fontawesome-webfont.svg
+font/fontawesome-webfont.ttf
+font/fontawesome-webfont.woff
